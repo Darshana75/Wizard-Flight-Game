@@ -4,4 +4,6 @@ This game appears to be a browser-based side-scroller developed using HTML, CSS,
 
 As the game progresses, the score displayed at the top left increases based on how far the player manages to fly without hitting any obstacles. The game tests the player's timing and reflexes as they attempt to keep the character in flight while avoiding obstacles. This project showcases proficiency in web technologies and game logic using JavaScript, making it a suitable addition to a developer portfolio.
 
+Play the game - https://darshana75.github.io/Wizard-s-Flight-Game/
+
 ![output](https://github.com/user-attachments/assets/73863181-bf0e-4ece-89ff-400057aed293)
